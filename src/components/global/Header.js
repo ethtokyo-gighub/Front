@@ -62,7 +62,9 @@ function Header({log}) {
     return (
         <Container>
             <Inner>
-                <LogoContainer onClick={() => {}}>
+                <LogoContainer onClick={() => {
+                    navigator("/");
+                }}>
                     <ImageLoader src={Logo} w={108} h={22} />
                 </LogoContainer>
 
