@@ -16,7 +16,7 @@ const Container = styled.button`
     border-radius: 8px;
     box-sizing: border-box;
 
-    font-style: normal;
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -37,7 +37,7 @@ const Container2 = styled.button`
     background: transparent;
     border: none;
 
-    font-style: normal;
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;

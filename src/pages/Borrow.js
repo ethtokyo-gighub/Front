@@ -467,7 +467,7 @@ function ApplyLoan({setPage, modal, setModal, setBorrow, mode}) {
             </SizeBox>
             <SizeBox w={210} h={52}>
                 <BasicSquareBtn onClick={() => setModal(true)}>
-                    Apply
+                    {!mode ? 'Repay' : 'Apply'}
                 </BasicSquareBtn>
             </SizeBox>
         </div>
@@ -494,7 +494,7 @@ function ItemComponent({set, repay, click}) {
             <SizeBox w={328} h={102}>
                 <div className={'all-f-row a-center'}>
                     <H3>
-                        234234235245 ETH
+                        1 ETH
                     </H3>
                 </div>
             </SizeBox>
