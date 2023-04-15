@@ -201,28 +201,28 @@ function Borrow() {
                             <SizeBox w={273} h={102}>
                                 <div className={'all-f-row a-center'}>
                                     <H3Bold>
-                                        test1
+                                        org title
                                     </H3Bold>
                                 </div>
                             </SizeBox>
                             <SizeBox w={329} h={102}>
                                 <div className={'all-f-row a-center'}>
                                     <H3Bold>
-                                        next paycheck date
+                                        repayment date
                                     </H3Bold>
                                 </div>
                             </SizeBox>
                             <SizeBox w={328} h={102}>
                                 <div className={'all-f-row a-center'}>
                                     <H3Bold>
-                                        next paycheck amount
+                                        accrued  interests
                                     </H3Bold>
                                 </div>
                             </SizeBox>
                             <SizeBox w={159} h={102}>
                                 <div className={'all-f-row a-center'}>
                                     <H3Bold>
-                                        take loan
+                                        repayment
                                     </H3Bold>
                                 </div>
                             </SizeBox>

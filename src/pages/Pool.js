@@ -196,7 +196,7 @@ function Pool() {
 
             <SizeBox w={15}/>
             <H4>
-                {deposit.toFixed(5)} ETH
+                100000 ETH
             </H4>
         </div>
 
@@ -212,7 +212,7 @@ function Pool() {
 
             <SizeBox w={15}/>
             <H4>
-                {deposit.toFixed(5)} ETH
+                100000 ETH
             </H4>
         </div>
 
@@ -264,7 +264,7 @@ function Pool() {
 
             <SizeBox w={8}/>
             <ColorText>
-                0.00%
+                30.00%
             </ColorText>
         </div>
 
