@@ -30,6 +30,9 @@ const BackContainer = styled.div`
 
     width: 100%;
     height: 100%;
+    
+    left: 0;
+    top: 0;
 `;
 
 const H1Container = styled.div`
@@ -54,7 +57,6 @@ const H1Linear = styled.div`
     #ffde60 100.74%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-clip: text;
 `;
 
 const H2Container = styled.div`
